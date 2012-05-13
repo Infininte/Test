@@ -31,6 +31,10 @@ public class game
 		}
 	}
 	
+	/*This is a comment I am testing the push configuration*/
+	String gumbo = "mush";
+	
+	
 	private String whosMove(String move)
 	{
 		switch(move)
